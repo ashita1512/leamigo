@@ -1,0 +1,9 @@
+.toolbar {
+  display: flex;
+  background-color: aliceblue;
+}
+
+.logo {
+  width: 150px; /* Adjust the width as needed */
+  height: 60px; /* Maintain the aspect ratio */
+}
